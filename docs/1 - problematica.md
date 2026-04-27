@@ -66,11 +66,11 @@ Es inevitable no comparar el "_Cine Monje Campero_" con otros cines
 de la ciudad, como el "_Multicine_", en diferentes aspectos que
 suponen problemas para el primero, como:
 
-- [ ] Sitio que centraliza toda la información del cine para clientes
-- [ ] Cartelera de películas actualizada
-- [ ] Horarios de exhibición disponibles
-- [ ] Venta de boletos en línea
-- [ ] Categorización de películas por género
+- [ ] Plataforma web dinámica que centralice cartelera, horarios, precios y noticias
+- [ ] Cartelera actualizada en tiempo real con filtros por género, formato y sala
+- [ ] Programación de funciones y disponibilidad de asientos visible para clientes
+- [ ] Venta de boletos en línea con selección de asientos y confirmación digital
+- [ ] Canal de comunicación con clientes (email, SMS o notificaciones)
 
 <table>
 	<tr>
@@ -94,12 +94,13 @@ suponen problemas para el primero, como:
 Además de esto, debemos incluir aspectos relacionados con la
 administración del cine, como:
 
-- [ ] Gestión de películas y horarios
-- [ ] Gestión de salas de exhibición
-- [ ] Gestión de ventas y finanzas
-- [ ] Gestión de promociones y descuentos
-- [ ] Gestión de inventario de alimentos y bebidas
-- [ ] Gestión de empleados y turnos
+- [ ] Gestión centralizada de películas, horarios y salas desde un panel administrativo
+- [ ] Control de taquilla y POS para ventas en ventanilla y conciliación diaria
+- [ ] Gestión de ventas, caja y reportes financieros operativos
+- [ ] Gestión de promociones, cupones y reglas de descuento
+- [ ] Gestión de inventario de alimentos y bebidas con control de stock
+- [ ] Gestión de clientes y empleados con roles y permisos
+- [ ] Integración con pasarelas de pago y servicios externos clave
 
 > [!TIP]
 > El _Multicine_ hace uso de un servicio de terceros
