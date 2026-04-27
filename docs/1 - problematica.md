@@ -60,7 +60,7 @@ digital.
 > accesible para muchas personas, desde estudiantes hasta
 > adultos mayores.
 
-## Estado actual del cine
+## Estado actual del cine 🔍
 
 Es inevitable no comparar el "_Cine Monje Campero_" con otros cines
 de la ciudad, como el "_Multicine_", en diferentes aspectos que
