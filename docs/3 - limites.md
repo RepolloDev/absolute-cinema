@@ -37,7 +37,7 @@ ofrecer una experiencia mínima a los clientes, con funcionalidades como:
 - **Base de datos central** para películas, funciones y ventas
 - **Reportería** inicial orientada al control operativo diario
 
-## Plataforma de desarrollo
+## Plataforma de desarrollo 💻
 
 Para esta primera fase, se optará por una plataforma de
 desarrollo web tradicional con tecnologías como:
