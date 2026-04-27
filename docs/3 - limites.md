@@ -42,10 +42,11 @@ ofrecer una experiencia mínima a los clientes, con funcionalidades como:
 Para esta primera fase, se optará por una plataforma de
 desarrollo web tradicional con tecnologías como:
 
-- **Python 3.14** como lenguaje de programación principal
-- **Reflex 0.9.0** como framework de desarrollo web de Python
-- **PostgreSQL 17** como sistema de gestión de bases de datos
-- **Podman 4.9.3** para contenerización y despliegue local
-- **Ubuntu 24.04** como sistema operativo de desarrollo y despliegue
-- **Git** para control de versiones y colaboración
-- **GitHub** para alojamiento del código y documentación
+- **Lenguaje de programación**: Python 3.14
+- **Gestor de dependencias**: UV 0.10.8
+- **Framework web**: Reflex 0.9.0
+- **Base de datos**: PostgreSQL 17
+- **Contenerización**: Podman 4.9.3
+- **Sistema operativo**: Ubuntu 24.04
+- **Control de versiones**: Git
+- **Alojamiento de código**: GitHub
