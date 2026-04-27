@@ -12,14 +12,14 @@
 
 <!-- Tech tools -->
 <p align="center">
-    <a href="https://astro.build/">
-        <img src="https://img.shields.io/badge/astro-2C2052.svg?style=for-the-badge&logo=astro&logoColor=white"/>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     </a>
-    <a href="https://elysiajs.com/">
-        <img src="https://img.shields.io/badge/elysia-333333.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <a href="https://docs.astral.sh/uv/">
+        <img src="https://img.shields.io/badge/uv-DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white"/>
     </a>
-    <a href="https://orm.drizzle.team/">
-        <img src="https://img.shields.io/badge/drizzle-000000.svg?style=for-the-badge&logo=drizzle&logoColor=green"/>
+    <a href="https://reflex.dev/">
+        <img src="https://img.shields.io/badge/reflex-6E56CF.svg?style=for-the-badge&logo=reflex&logoColor=white"/>
     </a>
     <a href="https://www.postgresql.org/">
         <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -30,6 +30,7 @@
 </p>
 
 <!-- Description -->
+
 `Absolute Cinema` es un **sistema de administración de cine**, enfocado
 a un cine ficticio. Contiene las características básicas para el
 funcionamiento de un cinema.
