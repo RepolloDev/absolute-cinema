@@ -35,7 +35,7 @@ a un cine ficticio. Contiene las características básicas para el
 funcionamiento de un cinema.
 
 > [!IMPORTANT]
-> 🚧 El proyecto está en desarrollo, pasará por las etápas básicas del desarrollo de software: investigación, definición de requerimientos, modelo de datos, arquitectura, infraestructura e implementación. Todos los borradores del proceso se guardan en `docs/draft`.
+> 🚧 El proyecto está en desarrollo, pasará por las etápas básicas del desarrollo de software: investigación, definición de requerimientos, modelo de datos, arquitectura, infraestructura e implementación.
 
 ## 🎲 Brand
 
