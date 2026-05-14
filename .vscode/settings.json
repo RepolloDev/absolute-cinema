@@ -1,4 +1,6 @@
 {
   "conventionalCommits.scopes": ["docs", "database", "app", "config", "assets"],
-  "conventionalCommits.autoCommit": false
+  "conventionalCommits.autoCommit": false,
+  "tinymist.rootPath": "${workspaceFolder}/docs/",
+  "tinymist.fontPaths": ["${workspaceFolder}/docs/assets/fonts/"]
 }
